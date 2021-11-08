@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">Full-stack developer from Lodon</h3>
+<h3 align="center">Full-stack developer from London</h3>
 
 - 🔭 I’m currently working on **Sudoku solver**
 
