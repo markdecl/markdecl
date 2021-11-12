@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Natural Language Processing**, **Machine Translation** and **language learning**
 
-- 📫 How to reach me **m.decourcyling@gmail.com**
+- 📫 Reach me at **m.decourcyling@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
