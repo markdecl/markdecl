@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **sudoku-solver** and **russian-learning-app-react**
 
-- 🌱 I’m currently learning **Ruby on Rails, React**
+- 🌱 I’m currently learning **Ruby on Rails** and **React**
 
 - 📝 I regularly write articles on [https://markdecl.github.io/](https://markdecl.github.io/)
 
