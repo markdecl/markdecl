@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://markdecl.github.io/](https://markdecl.github.io/)
 
-- 💬 Ask me about **Natural Language Processing**
+- 💬 Ask me about **Natural Language Processing**, **Machine Translation** and **language learning**
 
 - 📫 How to reach me **m.decourcyling@gmail.com**
 
