@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">A full-stack developer from London</h3>
 
-- 🔭 I’m currently working on **Sudoku solver**
+- 🔭 I’m currently working on **sudoku-solver** and **russian-learning-app-react**
 
 - 🌱 I’m currently learning **Ruby on Rails, React**
 
