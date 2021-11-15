@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Mark</h1>
+<h1 align="center">Hi, I'm Mark</h1>
 <h3 align="center">A full-stack developer from London</h3>
 
-- 🔭 I’m currently working on **sudoku-solver** and **russian-learning-app-react**
+- I’m currently working on **sudoku-solver** and **russian-learning-app-react**
 
-- 🌱 I’m currently learning **Ruby on Rails** and **React**
+- I’m currently learning **Ruby on Rails** and **React**
 
-- 📝 I regularly write articles on [https://markdecl.github.io/](https://markdecl.github.io/)
+- I regularly write articles on [https://markdecl.github.io/](https://markdecl.github.io/)
 
-- 💬 Ask me about **Natural Language Processing**, **Machine Translation** and **language learning**
+- Ask me about **Natural Language Processing**, **Machine Translation** and **language learning**
 
-- 📫 Reach me at **m.decourcyling@gmail.com**
+- Reach me at **m.decourcyling@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
