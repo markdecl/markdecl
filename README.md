@@ -5,7 +5,7 @@
 
 - I’m currently learning **Ruby on Rails** and **React**
 
-- I regularly write articles on [https://markdecl.github.io/](https://markdecl.github.io/)
+- I write articles on [https://markdecl.github.io/](https://markdecl.github.io/)
 
 - Ask me about **Natural Language Processing**, **Machine Translation** and **language learning**
 
