@@ -14,7 +14,7 @@ In this time I have learnt **three things**:
 
 Take a look at my projects and my **[GitHub Pages blog](https://markdecl.github.io/)**. Reach out to me at **m.decourcyling@gmail.com** if you want to speak, discuss, or work together (especially if it involves **natural language processing**, **machine translation** or **language learning**).
 
-In the meantime, I’m currently working on **sudoku-solver** and **russian-learning-app-react**, polishing my **Ruby on Rails** skills and pushing my JS skills by learning **React**.
+In the meantime, I’m currently working on **sudoku-solver** and **russian-learning-app-react**, polishing my **Ruby on Rails** skills and improving my JS skills by learning **React**.
 
 In moments away from my computer I'm usually keeping up my foreign language skills, reading about history or at my local boxing club.
 
