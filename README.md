@@ -1,12 +1,14 @@
 <h1 align="center">Hi, I'm Mark</h1>
 <h3 align="center">A full-stack developer from London</h3>
 
-When I first opened downloaded Python and VS Code three years ago to write a simple webscraper for an online dictionary, I found such unique satisfaction in seeing the HTML element text print printed in my Terminal window. This has motivated me to keep exploring the world of software, to find out about emerging technologies, to investigate new languages, and to see how I can apply them to existing problems.
+Three years ago, I first opened downloaded Python and VS Code three years ago to write a simple webscraper for an online dictionary, I found such unique satisfaction in seeing the HTML element text print printed in my Terminal window that I felt motivated to keep exploring the world of software, find out about emerging technologies, investigate new languages, and see how I can apply them to existing problems.
 
-In the three years since then, I have explored coding, data science, machine learning, and software development through my own side projects, internships, and most recently the Le Wagon Web Development bootcamp. In this time I have learnt three things:
+Since then, I have explored coding, data science, machine learning, and software development through my own side projects, internships, and most recently by completing the Le Wagon Web Development bootcamp. In this time I have learnt three things:
 - I love the unique intellectual challenges posed by working in the world of software, with all of its breadth, technical complexity, and pace of innovation
 - I appreciate the importance of technology and tech literacy, as it is all around is (often without us noticing!)
 - I want to dedicate my career to contributing to this change that is shaping society today
+
+Take a look at my projects and my GitHub Pages blog and reach out if you want to discuss anything or work together with me. I'm now open to full-time job opportunities as well!
 
 - I’m currently working on **sudoku-solver** and **russian-learning-app-react**
 
