@@ -1,8 +1,12 @@
 <h1 align="center">Hi, I'm Mark</h1>
 <h3 align="center">A full-stack developer from London</h3>
 
-Since I first opened Terminal and VS Code to write a simple webscraper for an online dictionary, I've been continually inspired and intrigued by the 
-This has motivated me to keep exploring the world of software, to find out about emerging technologies, to investigate new languages, and to see how I can apply them to existing problems.
+When I first opened downloaded Python and VS Code three years ago to write a simple webscraper for an online dictionary, I found such unique satisfaction in seeing the HTML element text print printed in my Terminal window. This has motivated me to keep exploring the world of software, to find out about emerging technologies, to investigate new languages, and to see how I can apply them to existing problems.
+
+In the three years since then, I have explored coding, data science, machine learning, and software development through my own side projects, internships, and most recently the Le Wagon Web Development bootcamp. In this time I have learnt three things:
+- I love the unique intellectual challenges posed by working in the world of software, with all of its breadth, technical complexity, and pace of innovation
+- I appreciate the importance of technology and tech literacy, as it is all around is (often without us noticing!)
+- I want to dedicate my career to contributing to this change that is shaping society today
 
 - I’m currently working on **sudoku-solver** and **russian-learning-app-react**
 
