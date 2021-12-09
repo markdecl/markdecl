@@ -10,7 +10,9 @@ In this time I have learnt three things:
 - I appreciate the importance of technology and tech literacy, as it is all around us (often without us noticing!)
 - I want to dedicate my career to building software and contributing to this change that is shaping society today
 
-Take a look at my projects and my [GitHub Pages blog](https://markdecl.github.io/) and reach out to me at **m.decourcyling@gmail.com** if you want to discuss anything (especially about **natural language processing**, **machine translation** and **language learning**) or work together with me. I'm now open to full-time job opportunities as well!
+Take a look at my projects and my **[GitHub Pages blog](https://markdecl.github.io/)** and reach out to me at **m.decourcyling@gmail.com** if you want to speak, discuss, or work together (especially if it involves **natural language processing**, **machine translation** and **language learning**).
+
+Plus, I'm now **open to full-time job opportunities** as well!
 
 In the meantime, I’m currently working on **sudoku-solver** and **russian-learning-app-react**, polishing my **Ruby on Rails** skills and pushing my JS skills by learning **React**.
 
