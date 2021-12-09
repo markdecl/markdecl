@@ -3,7 +3,7 @@
 
 <h3 align="center">***I'm now open to full-time job opportunities!***</h3>
 
-Three years ago, I first opened downloaded Python and VS Code to write a simple webscraper for an online dictionary, I found such satisfaction in seeing the HTML element text print printed in my Terminal window that I felt motivated to keep exploring the world of software, find out about emerging technologies, investigate new languages, and see how I can apply them to existing problems.
+Three years ago, I first opened downloaded Python and VS Code to write a simple webscraper for an online dictionary. I found such satisfaction in seeing the HTML element text print printed in my Terminal window that I felt motivated to keep exploring the world of software, find out about emerging technologies, investigate new languages, and see how I can apply them to existing problems.
 
 Since then, I have explored coding, data science, machine learning, and software development through my own side projects, internships, and most recently by completing the Le Wagon Web Development bootcamp.
 
