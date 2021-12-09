@@ -10,7 +10,7 @@ Since then, I have explored coding, data science, machine learning, and software
 In this time I have learnt **three things**:
 - I love the **unique intellectual challenges** posed by working in the world of software, with all of its breadth, technical complexity, and pace of innovation
 - I appreciate the **importance of technology** and tech literacy, as it is all around us (often without us noticing!)
-- I want to **dedicate my career to building software** and contributing to this change that is shaping society today
+- I want to **dedicate my career to building software** and contributing to the changes that are shaping society today
 
 Take a look at my projects and my **[GitHub Pages blog](https://markdecl.github.io/)** and reach out to me at **m.decourcyling@gmail.com** if you want to speak, discuss, or work together (especially if it involves **natural language processing**, **machine translation** and **language learning**).
 
