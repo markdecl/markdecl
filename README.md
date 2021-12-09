@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Mark</h1>
 <h3 align="center">A full-stack developer from London</h3>
 
+Since I first opened Terminal and VS Code to write a simple webscraper for an online dictionary, I've been continually inspired and intrigued by the 
+This has motivated me to keep exploring the world of software, to find out about emerging technologies, to investigate new languages, and to see how I can apply them to existing problems.
+
 - I’m currently working on **sudoku-solver** and **russian-learning-app-react**
 
 - I’m currently learning **Ruby on Rails** and **React**
