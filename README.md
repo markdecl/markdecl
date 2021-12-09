@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Mark</h1>
 <h3 align="center">A full-stack developer from London</h3>
 
+***I'm now open to full-time job opportunities!***
+
 Three years ago, I first opened downloaded Python and VS Code to write a simple webscraper for an online dictionary, I found such unique satisfaction in seeing the HTML element text print printed in my Terminal window that I felt motivated to keep exploring the world of software, find out about emerging technologies, investigate new languages, and see how I can apply them to existing problems.
 
 Since then, I have explored coding, data science, machine learning, and software development through my own side projects, internships, and most recently by completing the Le Wagon Web Development bootcamp.
@@ -11,8 +13,6 @@ In this time I have learnt three things:
 - I want to dedicate my career to building software and contributing to this change that is shaping society today
 
 Take a look at my projects and my **[GitHub Pages blog](https://markdecl.github.io/)** and reach out to me at **m.decourcyling@gmail.com** if you want to speak, discuss, or work together (especially if it involves **natural language processing**, **machine translation** and **language learning**).
-
-Plus, I'm now **open to full-time job opportunities** as well!
 
 In the meantime, I’m currently working on **sudoku-solver** and **russian-learning-app-react**, polishing my **Ruby on Rails** skills and pushing my JS skills by learning **React**.
 
