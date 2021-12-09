@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mark</h1>
 <h3 align="center">A full-stack developer from London</h3>
 
-***I'm now open to full-time job opportunities!***
+<h3 align="center">***I'm now open to full-time job opportunities!***</h3>
 
 Three years ago, I first opened downloaded Python and VS Code to write a simple webscraper for an online dictionary, I found such unique satisfaction in seeing the HTML element text print printed in my Terminal window that I felt motivated to keep exploring the world of software, find out about emerging technologies, investigate new languages, and see how I can apply them to existing problems.
 
