@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mark</h1>
+<h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">A full-stack developer from London</h3>
 
 <h3 align="center">***I'm now open to full-time job opportunities!***</h3>
