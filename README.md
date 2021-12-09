@@ -8,9 +8,9 @@ Three years ago, I first opened downloaded Python and VS Code to write a simple 
 Since then, I have explored coding, data science, machine learning, and software development through my own side projects, internships, and most recently by completing the Le Wagon Web Development bootcamp.
 
 In this time I have learnt three things:
-- I love the unique intellectual challenges posed by working in the world of software, with all of its breadth, technical complexity, and pace of innovation
-- I appreciate the importance of technology and tech literacy, as it is all around us (often without us noticing!)
-- I want to dedicate my career to building software and contributing to this change that is shaping society today
+- I love the **unique intellectual challenges** posed by working in the world of software, with all of its breadth, technical complexity, and pace of innovation
+- I appreciate the **importance of technology** and tech literacy, as it is all around us (often without us noticing!)
+- I want to **dedicate my career to building software** and contributing to this change that is shaping society today
 
 Take a look at my projects and my **[GitHub Pages blog](https://markdecl.github.io/)** and reach out to me at **m.decourcyling@gmail.com** if you want to speak, discuss, or work together (especially if it involves **natural language processing**, **machine translation** and **language learning**).
 
