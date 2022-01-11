@@ -12,7 +12,7 @@ In this time I have learnt **three things**:
 - I appreciate the **importance of technology** and tech literacy, as it is all around us (often without us noticing!)
 - I want to **dedicate my career to building software** and contributing to the changes that are shaping society today
 
-Take a look at my projects and my **[GitHub Pages blog](https://markdecl.github.io/)**. Find me on [LinkedIn](https://www.linkedin.com/in/mark-de-courcy-ling/).Reach out to me at **m.decourcyling@gmail.com** if you want to discuss anything or work together (especially if it involves **natural language processing**, **machine translation** or **language learning**).
+Take a look at my projects and my **[GitHub Pages blog](https://markdecl.github.io/)**. Connect with me on **[LinkedIn](https://www.linkedin.com/in/mark-de-courcy-ling/)**. Reach out to me at **m.decourcyling@gmail.com** if you want to discuss anything or work together (especially if it involves **natural language processing**, **machine translation** or **language learning**).
 
 In the meantime, I’m currently working on **sudoku-solver** and **russian-learning-app-react**, polishing my **Ruby on Rails** skills and improving my JS skills by learning **React**.
 
