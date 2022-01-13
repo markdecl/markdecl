@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">A software developer from London</h3>
 
-<h3 align="center">***I'm now open to full-time job opportunities!***</h3>
-
 Three years ago, I first downloaded Python and VS Code to write a simple webscraper for an online dictionary. I found such satisfaction in seeing the HTML element text printed in my Terminal window that I felt driven to keep exploring the world of software, investigating new technologies, and seeing how I can apply them to existing problems.
 
 Since then, I have explored coding, data science, machine learning, and software development through my own side projects, internships, and most recently by completing the Le Wagon Web Development bootcamp.
