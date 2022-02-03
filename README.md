@@ -12,7 +12,7 @@ In this time I have learnt **three things**:
 
 Take a look at my projects and my **[GitHub Pages blog](https://markdecl.github.io/)**. Connect with me on **[LinkedIn](https://www.linkedin.com/in/mark-de-courcy-ling/)**. Reach out to me at **m.decourcyling@gmail.com** if you want to discuss anything or work together (especially if it involves **natural language processing**, **machine translation** or **language learning**).
 
-In the meantime, I’m currently working on **sudoku-solver** and **russian-learning-app-react**, polishing my **Ruby on Rails** skills and improving my JS skills by learning **React**.
+In the meantime, I’m currently working on **sudoku-solver** and **russian-learning-app**, polishing my **Ruby on Rails** skills and improving my JS skills by learning **React**.
 
 When I'm away from my computer I'm usually keeping up my foreign language skills, reading about history or at my local boxing club.
 
