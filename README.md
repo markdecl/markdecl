@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">A software engineer from London</h3>
 
-Three years ago, I first downloaded Python and VS Code to write a simple webscraper for an online dictionary. I found such satisfaction in seeing the HTML element text printed in my Terminal window that I felt driven to keep exploring the world of software, investigating new technologies, and seeing how I can apply them to existing problems.
+Four years ago, I first downloaded Python and VS Code to write a simple webscraper for an online dictionary. I found such satisfaction in seeing the HTML element text printed in my Terminal window that I felt driven to keep exploring the world of software, investigating new technologies, and seeing how I can apply them to existing problems.
 
-Since then, I have explored coding, data science, machine learning, and software development through my own side projects, internships, and most recently by completing the Le Wagon Web Development bootcamp.
+Since then, I have explored coding, data science, data engineering, machine learning, and software development through my own side projects, internships, and most recently by completing the Le Wagon Web Development bootcamp.
 
 In this time I have learnt **three things**:
 - I love the **unique intellectual challenges** posed by working in the world of software, with all of its breadth, technical complexity, and pace of innovation
@@ -12,7 +12,7 @@ In this time I have learnt **three things**:
 
 Take a look at my projects and my **[GitHub Pages blog](https://markdecl.github.io/)**. Connect with me on **[LinkedIn](https://www.linkedin.com/in/mark-de-courcy-ling/)**. Reach out to me at **m.decourcyling@gmail.com** if you want to discuss anything or work together (especially if it involves **natural language processing**, **machine translation** or **language learning**).
 
-In the meantime, I’m currently working on **sudoku-solver** and **russian-learning-app**, polishing my **Ruby on Rails** skills and improving my frontend skills by learning **React**.
+In the meantime, I’m currently working on **data engineering** and **machine learning**, polishing my **SQL** skills and improving my cloud skills by learning **Azure**.
 
 When I'm away from my computer I'm usually keeping up my foreign language skills, reading about history or at my local boxing club.
 
