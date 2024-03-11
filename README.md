@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">A software engineer from London</h3>
+<h3 align="center">A data engineer from London</h3>
 
 Four years ago, I first downloaded Python and VS Code to write a simple webscraper for an online dictionary. I found such satisfaction in seeing the HTML element text printed in my Terminal window that I felt driven to keep exploring the world of software, investigating new technologies, and seeing how I can apply them to existing problems.
 
-Since then, I have explored coding, data science, data engineering, machine learning, and software development through my own projects, internships, the Le Wagon Web Development bootcamp, and working as a **software engineer** at **Capco**.
+Since then, I have explored coding, data science, data engineering, machine learning, and software development through my own projects, internships, the Le Wagon Web Development bootcamp, and working as a **data engineer** at **Capco**.
 
 In this time I have learnt **three things**:
 - I love the **unique intellectual challenges** posed by working in the world of software, with all of its breadth, technical complexity, and pace of innovation
